@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="0.1.0" uuid="adore-utils-3fdfb3">
+ <names>
+  <name lang="en_US">adore-utils</name>
+ </names>
+ <descriptions>
+  <description lang="en_US">Utility behaviors useful for ADORE.</description>
+ </descriptions>
+ <supportedLanguages>
+  <language>en_US</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="Leds off">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
