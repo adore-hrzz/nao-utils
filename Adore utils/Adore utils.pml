@@ -3,9 +3,13 @@
     <Manifest src="manifest.xml" />
     <BehaviorDescriptions>
         <BehaviorDescription name="behavior" src="Leds off" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="Stand up" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="Sit down" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
-    <Resources />
+    <Resources>
+        <File name="icon" src="icon.png" />
+    </Resources>
     <Topics />
     <IgnoredPaths />
 </Package>
